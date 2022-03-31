@@ -26,7 +26,7 @@ printString("Hello world", 0, "blue"); //the absence of specified color will res
 
 ![NScreenConsole Demo](https://user-images.githubusercontent.com/57896051/161062038-bf775ea3-e3a4-4cbb-9c22-d9f0a60d75d3.png)
 
-<p>You can also hide the empty line by updating the "showEmptyLines" variable on line 3</p>
+<p>You can also hide the empty lines by updating the "showEmptyLines" variable on line 3</p>
 
 ```JS
 var showEmptyLines = false;
