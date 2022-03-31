@@ -1,0 +1,17 @@
+.debug{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    pointer-events: none;
+    align-self: flex-start;
+    width: 100%;
+    z-index: 99;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.debug_line{
+    margin-top: 0.4em;
+    pointer-events: none;
+    color: chartreuse;
+    text-shadow: 2px 2px 3px rgb(27, 27, 27);
+}
