@@ -2,7 +2,7 @@
 
 <p>A very simple plug and play solution to get a simple on screen console similar to the unreal engine one.</p>
 
-<p>You just need to add the files to your directory and to link the stylesheet and the JS file, no codes adaptation needed.</p> 
+<p>You just need to add the files to your directory and to link the stylesheet and the JS file, no code adaptation needed.</p> 
 
 <p>Then just call the function anywhere you want :</p>
 
