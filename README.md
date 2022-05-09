@@ -1,4 +1,4 @@
-# NScreenConsole.js
+# NofinDebugHUD.js
 
 <p>A very simple plug and play solution to get a simple on screen console similar to the unreal engine one.</p>
 
